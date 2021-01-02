@@ -20,8 +20,8 @@ GowriRakesh
 Rakesh,Sahadevan
 Madhav,Rakesh
 
-# Two records will be loaded and You will get an error "Parsing error at line: 3 in resource=[class path resource [sample-data.csv]], input=[GowriRakesh]"
-# Restart the job with same parameter and you will get same error "Parsing error at line: 3 in resource=[class path resource [sample-data.csv]], input=[GowriRakesh]"
-# Correct the data you can see remaining 3 records were again loaded. Remaining data will be loaded starting from Gowri,Rakesh
+#Two records will be loaded and You will get an error "Parsing error at line: 3 in resource=[class path resource [sample-data.csv]], input=[GowriRakesh]"
+#Restart the job with same parameter and you will get same error "Parsing error at line: 3 in resource=[class path resource [sample-data.csv]], input=[GowriRakesh]"
+#Correct the data you can see remaining 3 records were again loaded. Remaining data will be loaded starting from Gowri,Rakesh
 
 
